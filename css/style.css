@@ -1,0 +1,64 @@
+body {
+  /** body - seletor; text-align - propriedade; center - valor */
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #8A71C9;
+  margin: 0;
+}
+
+h2 {
+  color: #2A0074;
+}
+
+section {
+  background-color: #bff132;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.title-infancia {
+  /* .title-infancia - classe */
+  color: #04FF9F;
+}
+
+.title-juventude {
+  color: rgb(83, 14, 247);
+}
+
+.title-adulta {
+  color: #cf3f26;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #c51ca9;
+}
+
+li {
+  background-color: #c51ca9;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+
+
+/** Referências
+https://www.google.com/search?q=color+picker
+https://www.w3schools.com/cssref/css_colors.asp
+https://dicasdeprogramacao.com.br/entenda-como-funcionam-os-codigos-de-cores-rgb/
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family
+https://www.hostinger.com.br/tutoriais/melhores-fontes-html
+https://www.hostgator.com.br/blog/fontes-web-como-escolher/
+https://metring.com.br/como-utilizar-o-google-fonts
+https://www.w3schools.com/cssref/
+https://medium.com/reprogramabr/semanticahtml5-5252b4937f0a
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin
+https://www.devmedia.com.br/como-usar-as-propriedades-margin-e-padding-css/24409
+https://docs.google.com/spreadsheets/d/1O_a-pdqUThlPA9f-EvLlfYM26m8F9t64zMrgqXjygUo/edit#gid=0
+*/
